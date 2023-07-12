@@ -6,6 +6,7 @@
 ## Comitê de organização
 
 - [Odwald Schreder](https://twitter.com/Oschreder_PPGCA)
+- [Wesley Scheifer](https://twitter.com/Wesleyscheifer)
  
 
 ## Comitê de seleção da chamada para apresentações
