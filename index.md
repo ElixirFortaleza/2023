@@ -3,8 +3,6 @@ layout: default
 ---
 
 
-
-
 Este é um evento organizado pela comunidade Elixir.
 
 Datas: 20 e 21 de setembro de 2023.
@@ -13,6 +11,7 @@ Local: Fortaleza, Ceará.
 
 Aguarde mais informações aqui.
 
+🇬🇧 [This page in English](http://elixiremfoco.github.io/elixirfortaleza/index_en)
 
 [CFP (_Call for presentations_ - Chamada para apresentações) aberta](https://forms.gle/5xC22eaz6RqCkLz98) 
 
