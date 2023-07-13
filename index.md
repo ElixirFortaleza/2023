@@ -5,7 +5,7 @@ layout: default
 
 Uma conferência do ecossistema de Erlang, feita por Elixir em Foco e ELUG-CE. Este é um evento [organizado](./organizacao.md) pela comunidade Elixir.
 
-Datas: 20 e 21 de setembro de 2023.
+Datas: 20 e 21 de setembro de 2023 (a aconfirmar).
 
 Local: Fortaleza, Ceará.
 
