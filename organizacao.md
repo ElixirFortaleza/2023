@@ -1,6 +1,7 @@
 # 🇧🇷 Comissão organizadora / 🇬🇧 Organization
 
 - 🇧🇷 Coordenação Geral /  🇬🇧 General Chair: [Adolfo Neto](https://adolfont.github.io/) (UTFPR, Elixir em Foco e Erlang Ecosystem Foundation)
+- [Francisco Heron de Carvalho Junior (UFC)](https://cc.ufc.br/curso/corpo-docente/heron/)
 - [Odwald Schreder](https://twitter.com/Oschreder_PPGCA)
 - [Wesley Scheifer](https://twitter.com/Wesleyscheifer)
  
