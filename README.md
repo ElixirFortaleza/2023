@@ -4,4 +4,5 @@ Acesse [elixiremfoco.com/elixirfortaleza](https://elixiremfoco.com/elixirfortale
 
 
 
-Visit [http://elixiremfoco.github.io/elixirfortaleza/index_en](http://elixiremfoco.github.io/elixirfortaleza/index_en).
+Visit [elixiremfoco.com/elixirfortalezaen](https://elixiremfoco.com/elixirfortalezaen).
+
