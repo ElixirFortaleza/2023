@@ -1,6 +1,6 @@
 # Elixir Fortaleza Conf 2023
 
-This is an event organized by the Elixir community.
+This is an event [organized by the Elixir community](https://elixiremfoco.github.io/elixirfortaleza/organizacao).
 
 Dates: September 20th and 21st, 2023.
 
