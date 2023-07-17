@@ -17,3 +17,4 @@
 ## 🇧🇷 Colaboradores / 🇬🇧 Collaborators
 
 - [Charleno Pires](https://twitter.com/charlenopires) (website)
+- [Adriano Santos](https://twitter.com/sleipni_r) (general)
