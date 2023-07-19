@@ -18,7 +18,7 @@ Aguarde mais informações aqui.
 
 [Saiba um pouco mais da história dos eventos da comunidade do ecossistema de Erlang no Brasil](./historia.md)
 
-<img src="./images/ArteCharleno.jpg" width="70%">
+<img src="./images/ArteCharleno.jpeg" width="70%">
 
 
 <!-- <img src="./images/Fortaleza.jpg" width="70%"> -->
