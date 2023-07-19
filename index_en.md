@@ -10,6 +10,9 @@ Stay tuned for more information here.
 
 [Call for Presentations (CFP) Elixir Fortaleza Conf 2023](https://docs.google.com/forms/d/e/1FAIpQLSf5dFHNmSxwSBy28QmPBapn5Hkc_6y4BIndIP4Y_b89aSUjbA/viewform)
 
+<img src="./images/ArteCharleno.jpeg" width="70%">
+
+
 🇧🇷 [Esta página em português](http://elixiremfoco.github.io/elixirfortaleza/)
 
 
