@@ -4,7 +4,7 @@
 - [Francisco Heron de Carvalho Junior (UFC)](https://cc.ufc.br/curso/corpo-docente/heron/)
 - [Odwald Schreder](https://twitter.com/Oschreder_PPGCA)
 - [Wesley Scheifer](https://twitter.com/Wesleyscheifer)
- 
+- [Diego Andrade (UFC)](https://conf.researchr.org/profile/msr-2022/carlosdiegoandradedealmeida)
 
 ## 🇧🇷 Comitê de seleção da chamada para apresentações / 🇬🇧 Call for presentations selection committee
 
