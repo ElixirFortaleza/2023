@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Uma conferência do ecossistema de Erlang, feita por [Elixir em Foco](http://elixiremfoco.com), [Elug CE](https://elug-ce.github.io/), DAINF e [PPGCA](https://ppgca.ct.utfpr.edu.br/) da [UTFPR](https://ppgca.ct.utfpr.edu.br/), [Departamento de Computação da UFC](https://dc.ufc.br/pt/) e [UFC Virtual](https://virtual.ufc.br/). Este é um evento [organizado](./organizacao.md) pela comunidade Elixir.
+Uma conferência do [ecossistema de Erlang](https://erlef.org/), feita por [Elixir em Foco](http://elixiremfoco.com), [Elug CE](https://elug-ce.github.io/), DAINF e [PPGCA](https://ppgca.ct.utfpr.edu.br/) da [UTFPR](https://ppgca.ct.utfpr.edu.br/), [Departamento de Computação da UFC](https://dc.ufc.br/pt/) e [UFC Virtual](https://virtual.ufc.br/). Este é um evento [organizado](./organizacao.md) pela comunidade [Elixir](https://elixir-lang.org/).
 
 - "Esquenta" do Elixir Fortaleza: 15 de setembro de 2023, à noite.
 - Palestras: 21 e 22 de setembro de 2023, manhã e tarde (das 9h às 18h).
