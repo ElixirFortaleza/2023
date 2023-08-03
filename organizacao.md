@@ -2,9 +2,9 @@
 
 - 🇧🇷 Coordenação Geral /  🇬🇧 General Chair: [Adolfo Neto](https://adolfont.github.io/) (UTFPR, Elixir em Foco & Erlang Ecosystem Foundation)
 - [Francisco Heron de Carvalho Junior (UFC)](https://cc.ufc.br/curso/corpo-docente/heron/)
-- [Odwald Schreder](https://twitter.com/Oschreder_PPGCA)
-- [Wesley Scheifer](https://twitter.com/Wesleyscheifer)
 - [Diego Andrade (UFC)](https://conf.researchr.org/profile/msr-2022/carlosdiegoandradedealmeida)
+- [Odwald Schreder](https://twitter.com/Oschreder_PPGCA)https://www.youtube.com/watch?v=5XbjvOD6U4E
+- [Wesley Scheifer](https://twitter.com/Wesleyscheifer)
 - [Vinícius Bail Alonso](https://www.viniciusalonso.com/)
 
 ## 🇧🇷 Comitê de seleção da chamada para apresentações / 🇬🇧 Call for presentations selection committee
