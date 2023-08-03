@@ -5,6 +5,7 @@
 - [Odwald Schreder](https://twitter.com/Oschreder_PPGCA)
 - [Wesley Scheifer](https://twitter.com/Wesleyscheifer)
 - [Diego Andrade (UFC)](https://conf.researchr.org/profile/msr-2022/carlosdiegoandradedealmeida)
+- [Vinícius Bail Alonso](https://www.viniciusalonso.com/)
 
 ## 🇧🇷 Comitê de seleção da chamada para apresentações / 🇬🇧 Call for presentations selection committee
 
