@@ -1,4 +1,4 @@
-# Elixir Fortaleza 2023
+# Elixir Fortaleza
 
 Acesse [elixiremfoco.com/elixirfortaleza](https://elixiremfoco.com/elixirfortaleza).
 
