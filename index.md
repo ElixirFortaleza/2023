@@ -14,7 +14,6 @@ Aguarde mais informações aqui.
 
 🇬🇧 [This page in English](http://elixiremfoco.github.io/elixirfortaleza/index_en)
 
-[CFP (_Call for presentations_ - Chamada para apresentações) aberta](https://forms.gle/5xC22eaz6RqCkLz98) 
 
 
 [Saiba um pouco mais da história dos eventos da comunidade do ecossistema de Erlang no Brasil](./historia.md)
