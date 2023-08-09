@@ -1,6 +1,6 @@
 ## Strategies for a Successful Presentation
 
-There are numerous ways to deliver a successful presentation. Here, I've highlighted four aspects that I believe are essential for delivering an effective technical talk:
+There are numerous ways to deliver a successful presentation. Here, we have' highlighted four aspects that we believe are essential for delivering an effective technical talk:
 
 1. **Context:** Striking the right balance in establishing the backdrop is essential. Since not everyone may be well-versed in your subject, it's important to provide context and bring everyone up to speed. Allocate time to explain the problem's context, but be mindful not to overdo it. This requires rehearsal. It's common to either delve excessively into context or skip it entirely. Ensure your key points are clear and concise, allowing your audience to stay engaged as you transition to the central theme.
 
