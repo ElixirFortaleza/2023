@@ -8,7 +8,7 @@ There are numerous ways to deliver a successful presentation. Here, we have' hig
 
 3. **Tone:** Be genuine and captivating! People have varied natural styles, some serious and others humorous. Be authentic to yourself. However, when uncertain about incorporating content, lean towards the side of being engaging and entertaining.
 
-4. **Slides:** Opt for prominent and striking fonts. Prioritize high contrast. Your slides should be legible not only from the back of the room but even from Mars (or at least the far end of the Griffin Ballroom).
+4. **Slides:** Opt for prominent and striking fonts. Prioritize high contrast. Your slides should be legible not only from the back of the room.
 
 Regarding the use of slides:
 
