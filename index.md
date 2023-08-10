@@ -10,7 +10,7 @@ Uma conferência do [ecossistema de Erlang](https://erlef.org/), feita por [Elix
 
 Local: Auditório do Departamento de Estatística e Matemática Aplicada (DEMA), Bloco 910 do Campus do Pici, Universidade Federal do Ceará (UFC). Fortaleza, Ceará. [Link para localização no Google Maps](https://maps.app.goo.gl/NaYqoxgS12xayjAq8).
 
-Aguarde mais informações aqui.
+Aguarde mais informações aqui ou no [perfil do Elixir em Foco no Twitter](https://twitter.com/elixiremfoco).
 
 🇬🇧 [This page in English](http://elixiremfoco.github.io/elixirfortaleza/index_en)
 
