@@ -8,6 +8,11 @@ Location: Auditório do Departamento de Estatística e Matemática Aplicada (DEM
 
 Stay tuned for more information here.
 
+## News
+
+- First keynote speaker announced! [Pedro Castilho will present, in Portuguese,  "The Erlang Runtime and How to Make It Your Friend"](https://twitter.com/elixiremfoco/status/1691131521175076865?s=20). 
+
+
 
 <img src="./images/ArteCharleno.jpeg" width="70%">
 
