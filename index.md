@@ -14,7 +14,11 @@ Aguarde mais informações aqui ou no [perfil do Elixir em Foco no Twitter](http
 
 🇬🇧 [This page in English](http://elixiremfoco.github.io/elixirfortaleza/index_en)
 
+## Programação
 
+- Primeira keynote anunciada! [Pedro Castilho vai ministrar a palestra "O runtime Erlang e como torná-lo seu amigo"](https://twitter.com/elixiremfoco/status/1691131521175076865?s=20). 
+
+## Outras informações
 
 [Saiba um pouco mais da história dos eventos da comunidade do ecossistema de Erlang no Brasil](./historia.md)
 
