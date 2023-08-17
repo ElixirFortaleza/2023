@@ -16,7 +16,8 @@ Aguarde mais informações aqui ou no [perfil do Elixir em Foco no Twitter](http
 
 ## Programação
 
-- Primeira keynote anunciada! [Pedro Castilho vai ministrar a palestra "O runtime Erlang e como torná-lo seu amigo"](https://twitter.com/elixiremfoco/status/1691131521175076865?s=20). 
+- Primeira palestra regular anunciada! [Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir, por Cairo Noleto](https://twitter.com/elixiremfoco/status/1691931458061873578/photo/1)
+- Primeira keynote anunciada! [Pedro Castilho vai ministrar a palestra "O runtime Erlang e como torná-lo seu amigo"](https://twitter.com/elixiremfoco/status/1691131521175076865?s=20).
 
 ## Outras informações
 
