@@ -14,6 +14,10 @@ Aguarde mais informações aqui ou no [perfil do Elixir em Foco no Twitter](http
 
 🇬🇧 [This page in English](http://elixiremfoco.github.io/elixirfortaleza/index_en)
 
+## Inscrições em breve
+
+[Deixe seu nome e seu e-mail no formulário deste link para ser informado(a) quando abrirem as isncrições da Elixir Fortaleza Conf 2023!](https://docs.google.com/forms/d/e/1FAIpQLSevx9A6YO_tWDV3s8hSIhfsUxu27Kzych0J0gts_W7onu-qCQ/viewform)
+
 ## Programação
 
 - Primeira palestra regular anunciada! [Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir, por Cairo Noleto](https://twitter.com/elixiremfoco/status/1691931458061873578/photo/1)
