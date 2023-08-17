@@ -16,7 +16,7 @@ Aguarde mais informações aqui ou no [perfil do Elixir em Foco no Twitter](http
 
 ## Inscrições em breve
 
-[Deixe seu nome e seu e-mail no formulário deste link para ser informado(a) quando abrirem as isncrições da Elixir Fortaleza Conf 2023!](https://docs.google.com/forms/d/e/1FAIpQLSevx9A6YO_tWDV3s8hSIhfsUxu27Kzych0J0gts_W7onu-qCQ/viewform)
+[Deixe seu nome e seu e-mail no formulário deste link para ser informado(a) quando abrirem as inscrições da Elixir Fortaleza Conf 2023!](https://docs.google.com/forms/d/e/1FAIpQLSevx9A6YO_tWDV3s8hSIhfsUxu27Kzych0J0gts_W7onu-qCQ/viewform)
 
 ## Programação
 
