@@ -1,0 +1,1 @@
+Imagens dos palestrantes
