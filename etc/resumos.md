@@ -4,7 +4,7 @@
 
 ## Pedro Castilho	
 
-<img src="palestrantes/PedroCastilho.jpeg" alt="Pedro Castilho" width="50%">
+<img src="palestrantes/PedroCastilho.jpeg" alt="Pedro Castilho" width="30%">
 
 
 
