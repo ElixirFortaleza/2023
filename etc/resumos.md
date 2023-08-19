@@ -4,6 +4,8 @@
 
 ## Pedro Castrilho	
 
+
+
 Título: O runtime Erlang e como torná-lo seu amigo	
 
 Resumo: Como o Elixir é uma linguagem de nível bastante abstrato, é bem fácil não ter noção concreta de como seu código realmente executa. Nesta apresentação, iremos discutir aspectos de baixo nível do runtime Erlang, como eles afetam a execução do seu código, e como fazer uso desse conhecimento para melhorar o código que você entrega em Elixir.			
