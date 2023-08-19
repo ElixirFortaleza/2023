@@ -1,4 +1,4 @@
-# Resumos das Palestras
+# Resumos das Palestras da Elixir Fortaleza Conf 2023
 
 ## Keynotes
 
