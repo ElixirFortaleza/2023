@@ -2,7 +2,9 @@
 
 ## Keynotes
 
-## Pedro Castrilho	
+## Pedro Castilho	
+
+<img src="palestrantes/PedroCastilho.jpeg" alt="Pedro Castilho" width="50%">
 
 
 
