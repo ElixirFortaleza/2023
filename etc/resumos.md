@@ -22,19 +22,20 @@ Modalidade: Presencial
 ## Palestras
 
 
-## Cairo
+## Processos em Elixir - Como funciona a Arquitetura básica das aplicações Elixir	
+
 
 <img src="palestrantes/CairoNoleto.jpeg" alt="Cairo Noleto" width="30%">
 
+Resumo: Nessa apresentação explico, com o auxílio de muitos GIFs, como os processos funcionam na máquina virtual Erlang	
 
-Cairo Noleto	
 
+Mini-bio: 
 Cairo Noleto, trabalha com programação desde 2007. Já trabalhou com Ruby, Python, Go, PHP e nos últimos anos vem trabalhando com Elixir e muito JavaScript (mais do que o necessário). Já liderou equipes de desenvolvimento dos mais variados tamanhos e atualmente é Staff Software Engineer na Trybe.	https://bolha.us/@caironoleto	caironoleto@gmail.com	
 
-Processos em Elixir - Como funciona a Arquitetura básica das aplicações Elixir	
 
-Nessa apresentação explico, com o auxílio de muitos GIFs, como os processos funcionam na máquina virtual erlang	
 
-Pessoas iniciantes em Elixir ou Erlang			
+Público-alvo: Pessoas iniciantes em Elixir ou Erlang			
 
-Presencialmente
+Modalidade: Presencial
+
