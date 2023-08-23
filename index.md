@@ -8,7 +8,7 @@ Uma conferência do [ecossistema de Erlang](https://erlef.org/), feita por [Elix
 - "Esquenta" do Elixir Fortaleza: 15 de setembro de 2023, à noite.
 - Palestras: 21 e 22 de setembro de 2023, manhã e tarde (das 9h às 18h).
 
-Local: Auditório do Departamento de Estatística e Matemática Aplicada (DEMA), Bloco 910 do Campus do Pici, Universidade Federal do Ceará (UFC). Fortaleza, Ceará. [Link para localização no Google Maps](https://maps.app.goo.gl/NaYqoxgS12xayjAq8).
+Local: Auditório do Bloco 910, Departamento de Computação, Campus do Pici, Universidade Federal do Ceará (UFC). Fortaleza, Ceará. [Link para localização no Google Maps](https://goo.gl/maps/Pg8Ca25qYXctohFU7).
 
 Aguarde mais informações aqui ou no [perfil do Elixir em Foco no Twitter](https://twitter.com/elixiremfoco).
 
