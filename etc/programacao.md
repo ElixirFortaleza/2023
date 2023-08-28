@@ -2,6 +2,7 @@
 
 ## Esquenta online - Sexta-feira, 15 de setembro de 2023
 
+Em [https://www.youtube.com/@elixiremfoco](https://www.youtube.com/@elixiremfoco).
 
 ## Quinta-feira, 21 de setembro de 2023
 
