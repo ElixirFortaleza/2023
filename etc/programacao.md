@@ -9,6 +9,6 @@ Em [https://www.youtube.com/@elixiremfoco](https://www.youtube.com/@elixiremfoco
 | Horário  | Atividade   | Palestrante/Responsável |
 | ------- | -------- | -------- |
 | Texto   | Texto    | Texto    |
-| Texto   | Texto    | Texto    |
+| 17h00   | _A definir_    | Charlotte de Oliveira    |
 
 ## Sexta-feira, 22 de setembro de 2023
