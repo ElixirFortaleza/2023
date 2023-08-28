@@ -6,6 +6,11 @@ Em [https://www.youtube.com/@elixiremfoco](https://www.youtube.com/@elixiremfoco
 
 ## Quinta-feira, 21 de setembro de 2023
 
+depois https://tabletomarkdown.com/convert-spreadsheet-to-markdown/
+
+e
+https://docs.google.com/spreadsheets/d/1S9EbtXR9ApaPBDwrugatCwUKicWRelCK4sXiciVBDgA/edit?usp=sharing
+
 | Horário  | Atividade   | Palestrante/Responsável |
 | ------- | -------- | -------- |
 | Texto   | Texto    | Texto    |
