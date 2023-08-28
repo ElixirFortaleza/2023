@@ -39,3 +39,15 @@ Público-alvo: Pessoas iniciantes em Elixir ou Erlang
 
 Modalidade: Presencial
 
+# Modern Clicks (Erlang Fullstack Web Development with Nitrogen)
+
+Resumo/abstract: The main idea is to make an introduction to Nitrogen (a framework to do full stack web development with Erlang) sharing my personal experience in my current work.
+
+
+Mini-bio:
+David Cao is a developer with a software engineering degree from the National University of La Matanza (a public university from Greater Buenos Aires). 
+David started as backend developer since 2006 but nowadays David is a fullstack one.
+
+Modalidade: Presencial
+
+
