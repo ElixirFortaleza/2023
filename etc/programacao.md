@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1S9EbtXR9ApaPBDwrugatCwUKicWRelCK4sXiciVB
 
 | Início  | Fim |  Atividade   | Palestrante/Responsável |
 | ------- | -------- | -------- | -------- |
-| 8h00 | 9h00 | Recepção e credenciamente | Equipe Elixir Fortaleza |
+| 8h00 | 9h00 | Recepção e credenciamento | Equipe Elixir Fortaleza |
 | 17h00   | 18h30 |  _A definir_    | Charlotte de Oliveira    |
 
 ## Sexta-feira, 22 de setembro de 2023
