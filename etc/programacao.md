@@ -11,9 +11,9 @@ depois https://tabletomarkdown.com/convert-spreadsheet-to-markdown/
 e
 https://docs.google.com/spreadsheets/d/1S9EbtXR9ApaPBDwrugatCwUKicWRelCK4sXiciVBDgA/edit?usp=sharing
 
-| Horário  | Atividade   | Palestrante/Responsável |
-| ------- | -------- | -------- |
-| Texto   | Texto    | Texto    |
-| 17h00   | _A definir_    | Charlotte de Oliveira    |
+| Início  | Fim |  Atividade   | Palestrante/Responsável |
+| ------- | -------- | -------- | -------- |
+| 8h00 | 9h00 | Recepção e credenciamente | Equipe Elixir Fortaleza |
+| 17h00   | 18h30 |  _A definir_    | Charlotte de Oliveira    |
 
 ## Sexta-feira, 22 de setembro de 2023
