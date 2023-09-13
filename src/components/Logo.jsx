@@ -5,7 +5,7 @@ export function Logo(props) {
   return (
     <Image
       src={logoImage}
-      alt="Picture of the author"
+      alt="Elixir Fortaleza Conf 2023"
       width={320}
       placeholder="blur"
     />

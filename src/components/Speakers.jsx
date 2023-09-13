@@ -19,6 +19,15 @@ import adrianoSantosImage from '@/images/avatars/adriano-santos.jpg'
 import pedroCastilhoImage from '@/images/avatars/pedro-castilho.jpg'
 import cairoNoletoImage from '@/images/avatars/cairo-noleto.jpg'
 import charloteLoreleiImage from '@/images/avatars/charlote-lorelei.jpg'
+import lucasVegiImage from '@/images/avatars/lucas-vegi.jpg'
+import willianFrantzImage from '@/images/avatars/willian-frantz.jpg'
+import davidCaoImage from '@/images/avatars/david-cao.jpg'
+import marlusSaraivaImage from '@/images/avatars/marlus-saraiva.jpg'
+import carlaBezerraImage from '@/images/avatars/carla-bezerra.jpg'
+import viniciusPachecoImage from '@/images/avatars/vinicius-pacheco.jpg'
+import matheusMarquesImage from '@/images/avatars/matheus-marques.jpg'
+import brunoLopesImage from '@/images/avatars/prof-bruno.jpg'
+import gustavoAraujoImage from '@/images/avatars/gustavo-araujo.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -29,14 +38,39 @@ const days = [
     dateTime: '2023-09-21',
     speakers: [
       {
-        name: 'Pedro Castilho',
+        name: 'Pedro Castilho (Keynote Speaker)',
         role: 'Tech Cofounder - Cumbuca',
         image: pedroCastilhoImage,
+      },
+      {
+        name: 'Charlotte Lorelei (Keynote Speaker)',
+        role: 'Software Engineer',
+        image: charloteLoreleiImage,
+      },
+      {
+        name: 'Joel Jucá',
+        role: 'Elug-CE',
+        image: joelJucaImage,
+      },
+      {
+        name: 'Lucas Vegi',
+        role: 'Professor na UFV e Doutorando na UFMG',
+        image: lucasVegiImage,
+      },
+      {
+        name: 'David Cao',
+        role: 'Software Engineer',
+        image: davidCaoImage,
       },
       {
         name: 'Cairo Noleto',
         role: 'Staff Software Engineer - Trybe',
         image: cairoNoletoImage,
+      },
+      {
+        name: 'Willian Frantz',
+        role: 'Senior Software Engineer at Riot Games',
+        image: willianFrantzImage,
       },
     ],
   },
@@ -46,10 +80,41 @@ const days = [
     dateTime: '2022-09-22',
     speakers: [
       {
-        name: 'Charlotte Lorelei',
-        role: 'Software Engineer',
-        image: charloteLoreleiImage,
+        name: 'Marlus Saraiva (Keynote Speaker)',
+        role: 'Senior Software Engineer at Simplebet',
+        image: marlusSaraivaImage,
       },
+      {
+        name: 'Carla Ilane Moreira Bezerra (Keynote Speaker)',
+        role: 'UFC - Campus Quixadá',
+        image: carlaBezerraImage,
+      },
+      {
+        name: 'Francisco Heron de Carvalho Junior (Keynote Speaker)',
+        role: 'UFC',
+        image: franciscoHeronImage,
+      },
+      {
+        name: 'Matheus de Camargo Marques',
+        role: 'Elixir and Erlang Developer',
+        image: matheusMarquesImage,
+      },
+      {
+        name: 'Vinícius Silva Pacheco',
+        role: 'Mestrando na UFMG',
+        image: viniciusPachecoImage,
+      },
+      {
+        name: 'Bruno Lopes',
+        role: 'Pessoa especialista na Escola de Programação Trybe',
+        image: brunoLopesImage,
+      },
+        {
+        name: 'Gustavo Araújo',
+        role: 'Senior Software Engineer at CloudWalk, Inc. ',
+        image: gustavoAraujoImage,
+      },
+
     ],
   },
   {
@@ -71,7 +136,7 @@ const days = [
         image: placeHolderImage,
       },
       {
-        name: 'Oswald Schreder',
+        name: 'Odwald Schreder',
         role: '',
         image: placeHolderImage,
       },
@@ -81,7 +146,7 @@ const days = [
         image: placeHolderImage,
       },
       {
-        name: 'Vinícius Bali Alonso',
+        name: 'Vinícius Bail Alonso',
         role: '',
         image: viniciusBaliImage,
       },

@@ -10,16 +10,16 @@ export default function NotFound() {
         <BackgroundImage className="-top-36 bottom-0" />
         <Container className="relative flex w-full flex-col items-center">
           <p className="font-display text-2xl tracking-tight text-purple-900">
-            404
+            
           </p>
           <h1 className="mt-4 font-display text-4xl font-medium tracking-tighter text-purple-550 sm:text-5xl">
-            Page not found
+            Hello!
           </h1>
           <p className="mt-4 text-lg tracking-tight text-purple-900">
-            Sorry, we couldn’t find the page you’re looking for.
+            
           </p>
           <Button href="/" className="mt-8">
-            Go back home
+          Click here to go to the new Elixir Fortaleza Conf 2023 page!
           </Button>
         </Container>
       </div>

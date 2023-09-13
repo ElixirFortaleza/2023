@@ -15,17 +15,72 @@ const schedule = [
       'Primeiro dia de conferência.',
     timeSlots: [
       {
+        name: 'Recepção',
+        description: '',
+        start: '08:00AM',
+        end: '8:45AM',
+      },
+      {
+        name: 'Abertura',
+        description: '',
+        start: '08:45AM',
+        end: '9:00AM',
+      },
+      {
         name: 'Pedro Castilho',
-        description: 'O runtime Erlang e como torná-lo seu amigo.',
+        description: 'O runtime Erlang e como torná-lo seu amigo',
         start: '09:00AM',
         end: '10:00AM',
       },
       {
-        name: 'Cairo Noleto',
-        description: 'Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir',
-        start: '10:00AM',
+        name: 'Joel Jucá',
+        description: 'Phoenix over SQLite',
+        start: '10:30AM',
         end: '11:00AM',
       },
+      {
+        name: 'Lucas Vegi',
+        description: 'Code Smells e Refatorações específicos para Elixir',
+        start: '11:00AM',
+        end: '11:40AM',
+      },
+      {
+        name: 'Lightning talks',
+        description: '',
+        start: '11:40AM',
+        end: '12:00PM',
+      },
+      {
+        name: 'Intervalo para almoço',
+        description: '',
+        start: '12:00PM',
+        end: '2:00PM',
+      },
+      {
+        name: 'David Cao	',
+        description: 'Modern Clicks (Erlang Fullstack Web Development with Nitrogen)',
+        start: '2:00PM',
+        end: '3:00PM',
+      },
+      {
+        name: 'Cairo Noleto',
+        description: 'Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir',
+        start: '3:00PM',
+        end: '3:30PM',
+      },
+      {
+        name: 'Willian Frantz',
+        description: 'Aprendizados de 2 anos utilizando LiveView',
+        start: '4:00PM',
+        end: '4:30PM',
+      },
+        {
+        name: 'Charlote Oliveira',
+        description: 'Elixir como linguagem da web do futuro',
+        start: '4:30PM',
+        end: '6:00PM',
+      },
+
     ],
   },
   {
@@ -35,11 +90,67 @@ const schedule = [
       'Segundo dia de conferência.',
     timeSlots: [
       {
-        name: 'Charlote Oliveira',
-        description: 'Elixir como linguagem da web do futuro',
-        start: '9:00AM',
+        name: 'Recepção',
+        description: '',
+        start: '08:00AM',
+        end: '9:00AM',
+      },
+      {
+        name: 'Marlus Saraiva',
+        description: 'Usando Scoped CSS em componentes Phoenix/Surface para melhor manutenção e performance',
+        start: '09:00AM',
         end: '10:00AM',
       },
+      {
+        name: 'Matheus de Camargo Marques',
+        description: 'Busca por palavra chaves com concorrência OTP & Elixir',
+        start: '10:30AM',
+        end: '11:00AM',
+      },
+            {
+        name: 'Vinícius Silva Pacheco',
+        description: 'Honey Potion: Explorando o Poder do eBPF com Elixir',
+        start: '11:00AM',
+        end: '11:30AM',
+      },
+            {
+        name: 'Bruno Lopes',
+        description: 'Aprenda Elixir criando um bot para o Discord',
+        start: '11:30AM',
+        end: '12:00PM',
+      },
+      {
+        name: 'Intervalo para almoço',
+        description: '',
+        start: '12:00PM',
+        end: '2:00PM',
+      },
+      {
+        name: 'Carla Bezerra',
+        description: 'Refatoração de code smells e seu impacto na qualidade do software',
+        start: '2:00PM',
+        end: '3:00PM',
+      },
+      {
+        name: 'Gustavo Araújo',
+        description: 'Construindo um Ambiente de Desenvolvimento Impecável em Elixir: Ferramentas Essenciais e Melhores Práticas',
+        start: '3:00PM',
+        end: '3:30PM',
+      },
+      {
+        name: 'Francisco Heron de Carvalho Júnior',
+        description: 'Fundamentos e Técnicas de Paralelização de Programas com Exemplos em Erlang e Elixir',
+        start: '4:30PM',
+        end: '5:30PM',
+      },
+        {
+        name: 'Encerramento',
+        description: '',
+        start: '5:30PM',
+        end: '6:00PM',
+      },
+
+
     ],
   },
 ]
@@ -185,7 +296,7 @@ export function Schedule() {
             Programação e agenda
           </h2>
           <p className="mt-4 font-display text-2xl tracking-tight text-purple-900">
-            Confira todas as palestras e key-notes
+            Confira todas as palestras e keynotes
           </p>
         </div>
       </Container>

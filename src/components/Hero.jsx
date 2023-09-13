@@ -5,6 +5,8 @@ import { Container } from '@/components/Container'
 import { DiamondIcon } from '@/components/DiamondIcon'
 import { MapPinIcon } from '@/components/MapPinIcon'
 import { Tab } from '@headlessui/react'
+import { Button } from '@/components/Button'
+
 
 export function Hero() {
   return (
@@ -31,20 +33,23 @@ function portuguese() {
           <h1 className="font-display text-5xl font-bold tracking-tighter text-purple-550 sm:text-7xl">
             Elixir Fortaleza Conf <span className='text-purple-200'>2023</span>
           </h1>
+          <Button href="https://bit.ly/45YuUyo" className="mt-10 w-full sm:hidden">
+            Inscrições
+          </Button>
           <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-purple-900">
             <p>
               Uma conferência do <a className='text-purple-550' href='https://erlef.org/'>ecossistema de Erlang</a>,
               feita por <a className='text-purple-550' href='http://elixiremfoco.com/'> Elixir em Foco</a>,
               <a className='text-purple-550' href='https://elug-ce.github.io/'> Elug CE</a>,
-              DAINF e <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'> PPGCA da UTFPR</a>,
+              <a className='text-purple-550' href='https://utfpr.curitiba.br/dainf/'> DAINF</a> e <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'> PPGCA da UTFPR</a>,
               <a className='text-purple-550' href='https://dc.ufc.br/pt/'> Departamento de Computação da UFC</a> e
-              <a className='text-purple-550' href='https://virtual.ufc.br/'> UFC Virtual</a>. Este é um evento organizado
-              pela comunidade <a className='text-purple-550' href='https://elixir-lang.org/'>Elixir</a>.
+              <a className='text-purple-550' href='https://virtual.ufc.br/'> UFC Virtual</a>. Este é um evento da
+              comunidade <a className='text-purple-550' href='https://elixir-lang.org/'>Elixir</a>.
             </p>
             <div className="order-first -mx-4 550/10 py-4">
               <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
                 <DiamondIcon className="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
-                <p>&quot;Esquenta&quot; do Elixir Fortaleza:</p>
+                <p><a className='text-purple-550' href="https://www.youtube.com/watch?v=yBT29ADYiWc">&quot;Esquenta&quot; do Elixir Fortaleza (online no YouTube)</a>:</p>
                 <p className='text-sm'>15 de setembro, à noite</p>
               </div>
               <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
@@ -90,10 +95,20 @@ function english() {
           <h1 className="font-display text-5xl font-bold tracking-tighter text-purple-550 sm:text-7xl">
             Elixir Fortaleza Conf <span className='text-purple-200'>2023</span>
           </h1>
+          <Button href="https://bit.ly/45YuUyo" className="mt-10 w-full sm:hidden">
+            Tickets
+          </Button>
           <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-purple-900">
             <p>
-              This is an event organized by the <a className='text-purple-550' href='https://elixir-lang.org/'>Elixir</a> community.
-            </p>
+            A conference of the <a className='text-purple-550' href='https://erlef.org/'>Erlang ecosystem</a>, organized by
+              <a className='text-purple-550' href='http://elixiremfoco.com/'> Elixir em Foco</a>,
+              <a className='text-purple-550' href='https://elug-ce.github.io/'> Elug CE</a>,
+              <a className='text-purple-550' href='https://utfpr.curitiba.br/dainf/'> UTFPR&apos;s DAINF</a>,
+              <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'> UTFPR&apos;s PPGCA</a>,
+              <a className='text-purple-550' href='https://dc.ufc.br/pt/'> UFC&apos;s Department of Computing</a>,
+              and <a className='text-purple-550' href='https://virtual.ufc.br/'> UFC Virtual</a>.
+              This is an event of the <a className='text-purple-550' href='https://elixir-lang.org/'>Elixir</a> community.
+                </p>
             <div className="order-first -mx-4 550/10 py-4">
               <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
                 <DiamondIcon className="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
