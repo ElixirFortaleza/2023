@@ -8,7 +8,7 @@ import { Tab } from '@headlessui/react'
 
 export function Hero() {
   return (
-      <Tab.Group>
+      <Tab.Group defaultIndex={1}>
         <Tab.List className="flex flex-row-reverse mr-24">
           <Tab className="px-2 z-50">🇺🇸</Tab>
           <Tab className="px-2 z-50">🇧🇷</Tab>
