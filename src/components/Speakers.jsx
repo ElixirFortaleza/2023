@@ -139,7 +139,7 @@ const days = [
       {
         name: 'Herminio Torres',
         role: 'Elixir em Foco',
-        image: placeHolderImage,
+        image: herminioTorresImage,
       },
       {
         name: 'Odwald Schreder',
