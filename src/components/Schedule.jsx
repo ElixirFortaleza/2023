@@ -33,6 +33,12 @@ const schedule = [
         end: '10:00AM',
       },
       {
+        name: 'Intervalo',
+        description: '',
+        start: '10:00AM',
+        end: '10:30AM',
+      },
+      {
         name: 'Joel Jucá',
         description: 'Phoenix over SQLite',
         start: '10:30AM',
