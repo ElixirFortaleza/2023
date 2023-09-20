@@ -135,7 +135,7 @@ const days = [
       {
         name: 'Diego Andrade',
         role: 'UFC',
-        image: placeHolderImage,
+        image: diegoAndradeImage,
       },
       {
         name: 'Herminio Torres',
