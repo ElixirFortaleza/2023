@@ -49,18 +49,18 @@ function portuguese() {
             <div className="order-first -mx-4 550/10 py-4">
               <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
                 <DiamondIcon className="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
-                <p><a className='text-purple-550' href="https://www.youtube.com/watch?v=yBT29ADYiWc">&quot;Esquenta&quot; do Elixir Fortaleza (online no YouTube)</a>:</p>
-                <p className='text-sm'>15 de setembro, à noite</p>
-              </div>
-              <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
-                <DiamondIcon className="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
                 <p>Palestras - primeiro dia:</p>
-                <p className='text-sm'>21 de setembro, (das 9h às 18h)</p>
+                <p className='text-sm'>21 de setembro, das 9h às 12h e das 14h às 18h</p>
               </div>
               <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
                 <DiamondIcon className="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
                 <p>Palestras - segundo dia:</p>
-                <p className='text-sm'>22 de setembro, (das 9h às 18h)</p>
+                <p className='text-sm'>22 de setembro, das 9h às 12h e das 14h às 18h</p>
+              </div>
+              <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
+                <DiamondIcon className="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
+                <p><a className='text-purple-550' href="https://www.youtube.com/watch?v=yBT29ADYiWc">&quot;Esquenta&quot; do Elixir Fortaleza (online no YouTube)</a>:</p>
+                <p className='text-sm'>15 de setembro, à noite</p>
               </div>
             </div>
 
