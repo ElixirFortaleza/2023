@@ -138,17 +138,17 @@ const days = [
         image: diegoAndradeImage,
       },
       {
+        name: 'Joel Jucá',
+        role: 'Elug-CE',
+        image: joelJucaImage,
+      },
+      {
         name: 'Herminio Torres',
         role: 'Elixir em Foco',
         image: herminioTorresImage,
       },
       {
         name: 'Odwald Schreder',
-        role: '',
-        image: placeHolderImage,
-      },
-      {
-        name: 'Wesley Scheifer',
         role: '',
         image: placeHolderImage,
       },
