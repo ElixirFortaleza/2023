@@ -11,6 +11,11 @@ export function Footer() {
           <a className='text-purple-550' href='http://elixiremfoco.com'> Elixir em Foco</a>. 
           Em caso de dúvida, envie email para elixiremfoco@gmail.com.
         </p>
+        <p className="mt-6 text-base text-slate-500 md:mt-0">
+          Este evento recebeu apoio parcial da 
+          <a className='text-purple-550' href='https://bit.ly/3Jma95g'> Erlang Ecosystem Foundation</a>. 
+          Acesse a página e se associe!.
+        </p>
       </Container>
     </footer>
   )
