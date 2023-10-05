@@ -14,7 +14,7 @@ export function Footer() {
         <p className="mt-6 text-base text-slate-500 md:mt-0">
           Este evento recebeu apoio parcial da 
           <a className='text-purple-550' href='https://bit.ly/3Jma95g'> Erlang Ecosystem Foundation</a>. 
-          Acesse a página e se associe!.
+          Acesse a página e se associe!
         </p>
       </Container>
     </footer>
