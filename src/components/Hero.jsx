@@ -49,6 +49,10 @@ function portuguese() {
             <div className="order-first -mx-4 550/10 py-4">
               <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
                 <DiamondIcon className="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
+                <p className='text-sm'><a className='text-purple-550' href="https://www.youtube.com/playlist?list=PLa5zLmv3pgCAT428zYCwzfI1ZZIwWH8aQ">Gravações das Palestras</a></p>p>
+              </div>
+              <div className="mx-auto flex items-center gap-4 px-4 font-mono text-md">
+                <DiamondIcon className="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
                 <p>Palestras - primeiro dia:</p>
                 <p className='text-sm'>21 de setembro, das <a className='text-purple-550' href="https://www.youtube.com/watch?v=y6D-Rj9I9KI">9h às 12h</a> e 
                 das <a className='text-purple-550' href="https://www.youtube.com/watch?v=UIpsSFU5LN8">14h às 18h</a></p>
