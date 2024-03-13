@@ -21,8 +21,14 @@ export function Header() {
           </div>
         </div>
         <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
-          <Button href="https://bit.ly/45YuUyo">Tickets/Inscrições</Button>
+          <Button href="https://www.youtube.com/playlist?list=PLa5zLmv3pgCAT428zYCwzfI1ZZIwWH8aQ">Palestras</Button>
         </div>
+        <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
+          <Button href="https://www.youtube.com/playlist?list=PLa5zLmv3pgCBLo8FOBTbK8DuoFBLL6q44">Transmissões ao Vivo</Button>
+        </div>
+        <!-- <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
+          <Button href="https://bit.ly/45YuUyo">Tickets/Inscrições</Button>
+        </div> -->
 
       </Container>
     </header>
